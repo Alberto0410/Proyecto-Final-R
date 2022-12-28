@@ -2,6 +2,8 @@ Proyecto Final
 ================
 Erika, Alberto
 16/5/2021
+
+
 En este proyecto se realiza un análisis exploratorio de los datos de COVID-19 en México
 
 
