@@ -2,6 +2,8 @@ Proyecto Final
 ================
 Erika, Alberto
 16/5/2021
+En este proyecto se realiza un análisis exploratorio de los datos de COVID-19 en México
+
 
 El primer paso es cargar la base de datos. Para esto se utiliza el
 comando `file.choose()` que nos da la dirección el archivo y seguido de
